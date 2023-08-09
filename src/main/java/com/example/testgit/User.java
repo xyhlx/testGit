@@ -7,4 +7,7 @@ package com.example.testgit;
  */
 public class User {
   int bbbb;
+  int aaa;
+  int bbb;
+  int sasasdadad;
 }

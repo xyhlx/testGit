@@ -6,4 +6,6 @@ package com.example.testgit;
  * @author: xyh
  */
 public class U {
+    int qwqwq;
+    int aaa;
 }
